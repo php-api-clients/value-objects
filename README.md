@@ -1,11 +1,11 @@
 # API Client Value Objects for PHP 7.x
 
-[![Build Status](https://travis-ci.org/php-api-client/value-objects.svg?branch=master)](https://travis-ci.org/php-api-client/value-objects)
-[![Latest Stable Version](https://poser.pugx.org/api-client/value-objects/v/stable.png)](https://packagist.org/packages/api-client/value-objects)
-[![Total Downloads](https://poser.pugx.org/api-client/value-objects/downloads.png)](https://packagist.org/packages/api-client/value-objects/stats)
-[![Code Coverage](https://scrutinizer-ci.com/g/php-api-client/value-objects/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/php-api-client/value-objects/?branch=master)
-[![License](https://poser.pugx.org/api-client/value-objects/license.png)](https://packagist.org/packages/api-client/value-objects)
-[![PHP 7 ready](http://php7ready.timesplinter.ch/php-api-client/value-objects/badge.svg)](https://appveyor-ci.org/php-api-client/value-objects)
+[![Build Status](https://travis-ci.org/php-api-clients/value-objects.svg?branch=master)](https://travis-ci.org/php-api-clients/value-objects)
+[![Latest Stable Version](https://poser.pugx.org/api-clients/value-objects/v/stable.png)](https://packagist.org/packages/api-clients/value-objects)
+[![Total Downloads](https://poser.pugx.org/api-clients/value-objects/downloads.png)](https://packagist.org/packages/api-clients/value-objects/stats)
+[![Code Coverage](https://scrutinizer-ci.com/g/php-api-clients/value-objects/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/php-api-clients/value-objects/?branch=master)
+[![License](https://poser.pugx.org/api-clients/value-objects/license.png)](https://packagist.org/packages/api-clients/value-objects)
+[![PHP 7 ready](http://php7ready.timesplinter.ch/php-api-clients/value-objects/badge.svg)](https://appveyor-ci.org/php-api-clients/value-objects)
 
 
 # Goals
